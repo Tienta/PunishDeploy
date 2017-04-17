@@ -80,6 +80,12 @@ nav ul li a:hover{
     margin-bottom: 16px;
     margin-top: 16px;
 }
+#funnycolor{
+    background: lightseagreen;
+}
+#interestingcolor{
+    background: palevioletred;
+}
 
 /*---------------------------------------------Punish Button--------------------------------------*/
 .punishbutton {

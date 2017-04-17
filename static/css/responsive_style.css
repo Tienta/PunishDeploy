@@ -21,6 +21,10 @@
         width: auto;
         height: 250px;
     }
+    .punishpadding {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
 }
 
 /* ------------------------------------------- iPad -------------------------------------------------- */
